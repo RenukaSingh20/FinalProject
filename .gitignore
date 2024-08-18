@@ -1,0 +1,33 @@
+# Node modules for React frontend
+frontend/node_modules/
+
+# Build output directory for React frontend
+frontend/build/
+
+# Environment variables for React frontend
+frontend/.env
+
+# Spring Boot specific files
+backend/target/
+
+# Log files
+backend/*.log
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# IDE or Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Coverage directory used by testing frameworks
+frontend/coverage/
+backend/coverage/
